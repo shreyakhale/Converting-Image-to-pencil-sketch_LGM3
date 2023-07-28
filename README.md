@@ -1,4 +1,4 @@
-# Converting Image to pencil sketch with the python cv2 library
+# Converting Image to pencil sketch with python cv2 library
 
 I have made this project as a a part of my data science internship at @LetsGrowMore (LGM).
 
